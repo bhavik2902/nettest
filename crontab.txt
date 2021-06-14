@@ -1,0 +1,2 @@
+#Nettest run test
+*/10 * * * * /nettest.sh
